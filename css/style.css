@@ -8,9 +8,17 @@
 }
 
 .bg-color{
-    background-color: #adadad;
+    background-color: #c4c4c4;
     
 }
 .sla{
    justify-content: center;
+}
+
+.scrollView{
+    overflow: auto;
+    white-space: nowrap;
+}
+.img-bg{
+background-image: url(../img/img-Academi.webp);
 }
